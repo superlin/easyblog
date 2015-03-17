@@ -2,7 +2,7 @@
   "name": "easyblog",
   "version": "1.0.0",
   "private": false,
-  "description": "easyblog for express",
+  "description": "easyblog for express4444",
   "scripts": {
     "start": "node app"
   },

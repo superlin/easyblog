@@ -1,0 +1,12 @@
+{
+  "name": "easyblog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "easyblog for express",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    
+  }
+}
